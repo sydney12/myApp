@@ -1,0 +1,10 @@
+"#container": {
+	layout: 'vertical'
+},
+"#logoContainer": {
+	backgroundImage: 'image/bg.jpg',
+	top: '10%',
+	width: '500px',
+	height: '700px',
+	layout: 'vertical'
+}
